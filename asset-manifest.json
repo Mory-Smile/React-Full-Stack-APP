@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Full-Stack-App/static/css/main.89e41ba9.css",
+    "main.js": "/React-Full-Stack-App/static/js/main.36e334ad.js",
+    "static/js/453.5f253c2d.chunk.js": "/React-Full-Stack-App/static/js/453.5f253c2d.chunk.js",
+    "static/media/shopping-cart.png": "/React-Full-Stack-App/static/media/shopping-cart.e74f61edf5e0d2231aed.png",
+    "static/media/shopping-bag.svg": "/React-Full-Stack-App/static/media/shopping-bag.d765302a51694d85b3721dbde9933e74.svg",
+    "static/media/crown.svg": "/React-Full-Stack-App/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/React-Full-Stack-App/index.html",
+    "main.89e41ba9.css.map": "/React-Full-Stack-App/static/css/main.89e41ba9.css.map",
+    "main.36e334ad.js.map": "/React-Full-Stack-App/static/js/main.36e334ad.js.map",
+    "453.5f253c2d.chunk.js.map": "/React-Full-Stack-App/static/js/453.5f253c2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e41ba9.css",
+    "static/js/main.36e334ad.js"
+  ]
+}
